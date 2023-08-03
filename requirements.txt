@@ -1,1 +1,4 @@
-secp256k1
+bech32==1.2.0
+cffi==1.15.1
+pycparser==2.21
+secp256k1==0.14.0
