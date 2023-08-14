@@ -27,5 +27,3 @@ This will output a private key and public key in their hexadecimal forms.
 ## License
 
 This project is licensed under the terms of the MIT License. For details, see the [LICENSE](LICENSE) file.
-
-To get past the http problem on snort open the javascript console and typing “window.crypto.subtle = 1;” and then hitting enter.
